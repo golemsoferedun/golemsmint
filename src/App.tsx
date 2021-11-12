@@ -91,9 +91,8 @@ const App = () => {
               <img src={golemsMint}/>
             </div>
               <div className="mint-text">
-                <h3><span className="green">Price: </span> 0.5 SOL</h3>
+                <h3><span className="green">Price: </span> 0.044 SOL</h3>
                 <h3><span className="green">Total Supply: </span>100</h3>
-                <h3><span className="green">Rewards (if all minted): </span>10 X 1 SOL</h3>
               </div>
             <div className="mint-button">
               <ThemeProvider theme={theme}>
